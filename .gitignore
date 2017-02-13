@@ -1,0 +1,5 @@
+# Folder not to git
+notToGit/
+
+# ignor txt files in docs folder
+docs/*.txt
